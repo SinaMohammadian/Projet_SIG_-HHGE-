@@ -1,0 +1,25 @@
+Golden Software Cartographic Reference Information : Version 2.00
+System Type : GCS
+System Identification : Projected Systems|Regional/National|France|Lambert 93
+  Comment : System Identification strings are subject to change at any time.
+System GCS Token : SYSTEM_LAMBERT_93
+Projection Method : Lambert Conformal Conic
+Projection Ellipsoid Type : GRS 1980 / IUGG 1980
+Projection Ellipsoid GCS Token : ELLIPSOID_GRS_1980
+Projection Ellipsoid Radius (meters) : 6378137
+Projection Ellipsoid Flattening : 0.00335281068118232
+Projection Scale : 1
+Projection Central Scale : 0.99905103
+Projection False Easting (meters) : 700000
+Projection False Northing (meters) : 6600000
+Projection Lon0 (degrees) : 3
+Projection Lat0 (degrees) : 46.5
+Projection Lat1 (degrees) : 44
+Projection Lat2 (degrees) : 49
+Datum Name : RGF93 (WGS84 base)
+Datum GCS Token : DATUM_RGF93
+Datum Method : None
+Datum Ellipsoid Type : GRS 1980 / IUGG 1980
+Datum Ellipsoid GCS Token : ELLIPSOID_GRS_1980
+Datum Ellipsoid Radius (meters) : 6378137
+Datum Ellipsoid Flattening : 0.00335281068118232
